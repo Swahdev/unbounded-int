@@ -1,0 +1,3 @@
+Le make place tout les -o dans un dossier
+make clean pour supprimer les -o
+make fclean pour supprimer les -o et les executables
